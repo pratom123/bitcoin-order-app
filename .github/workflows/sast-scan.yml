@@ -34,4 +34,4 @@ jobs:
         with:
           name: sast report
           path: |
-            ./ODC-report 
+            ./ODC-report
